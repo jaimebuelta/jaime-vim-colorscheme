@@ -18,7 +18,7 @@ if version >= 700
   hi CursorColumn guibg=#ffcb69
   hi MatchParen   guifg=#f6f3e8 guibg=#857b6f gui=bold
   hi Pmenu 	      guifg=#f6f3e8 guibg=#888888
-  hi PmenuSel 	  guifg=#000000 guibg=#cae682
+  hi PmenuSel 	  guifg=#000000 guibg=#95ab64
 endif
 
 " General colors
@@ -39,9 +39,9 @@ hi Comment 		        guifg=#99968b gui=italic
 hi Todo 		        guifg=#8f8f8f gui=italic
 hi Constant 		    guifg=#800000 gui=none
 hi String 		        guifg=#00aa00 gui=italic
-hi Identifier 		    guifg=#cae682 gui=none
+hi Identifier 		    guifg=#95ab64 gui=none
 hi Function 	    	guifg=#000000 gui=bold
-hi Type 		        guifg=#cae682 gui=none
+hi Type 		        guifg=#95ab64 gui=none
 hi Statement 		    guifg=#0000ff gui=none
 hi Keyword		        guifg=#0000ff gui=none
 hi PreProc 		        guifg=#e5786d gui=none
